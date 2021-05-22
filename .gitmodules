@@ -1,0 +1,6 @@
+[submodule "0.1.0/WebSpoofer"]
+	path = 0.1.0/WebSpoofer
+	url = https://github.com/livehacknights/WebSpoofer.git
+[submodule "0.1.1/GoogleIO"]
+	path = 0.1.1/GoogleIO
+	url = https://github.com/livehacknights/GoogleIO.git
